@@ -8,7 +8,7 @@ const Login = () => {
       <form >
         <div className='flex flex-col gap-4 my-5'>
           <label className='flex flex-col '>
-            <span className='label'>Email**</span>
+            <span className='label'>Email</span>
             <input className='inputField' type="text" />
           </label>
           <label className='flex flex-col'>
